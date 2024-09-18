@@ -8,4 +8,10 @@
 []()  
 []()  
 []()  
-[]()  
+
+  
+# forum items
+
+[How can I using a callback function of events handle in a class?](https://github.com/lvgl/lvgl/issues/6438)  
+[support all draw task types](https://github.com/lvgl/lvgl/pull/6437)  
+[add NemaGFX rendering backend](https://github.com/lvgl/lvgl/pull/6487)  
